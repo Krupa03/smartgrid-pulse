@@ -16,7 +16,7 @@ Energy grids generate millions of sensor readings per day. This project models t
 
 | Layer | Technology |
 |---|---|
-| Database | PostgreSQL 15 + TimescaleDB |
+| Database | PostgreSQL 16 + TimescaleDB |
 | Stored logic | PL/pgSQL (functions, triggers, procedures) |
 | Data ingestion | Python 3.11 (psycopg2, pandas) |
 | Sensor simulation | Python (synthetic time-series with injected anomalies) |
