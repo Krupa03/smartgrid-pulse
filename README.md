@@ -152,7 +152,7 @@ ORDER BY detected_at DESC;
 
 ## Status
 
-🟡 **In progress** — schema and ingestion complete; PL/pgSQL triggers and Tableau dashboard in development.
+🟢 **Complete** — schema and ingestion complete; Fully functional — schema, ingestion, anomaly detection, and KPI dashboard complete.
 
 ---
 
