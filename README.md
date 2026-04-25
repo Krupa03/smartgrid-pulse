@@ -152,8 +152,10 @@ ORDER BY detected_at DESC;
 
 ## Status
 
-🟢 **Complete** — schema and ingestion complete; Fully functional — schema, ingestion, anomaly detection, and KPI dashboard complete.
+🟢 **Complete** — schema, ingestion, PL/pgSQL anomaly detection, and Tableau dashboard fully operational.
 
+## 📊 Live Dashboard
+[View on Tableau Public](https://public.tableau.com/app/profile/krupa.parmar8173/viz/SmartGridPulseLiveSensorMonitoring/Dashboard1)
 ---
 
 ## Author
